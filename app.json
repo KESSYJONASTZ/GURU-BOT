@@ -13,17 +13,17 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "GuruBot~RrfZyQRg",
       "required": true,
       "value": ""
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
-      "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
+      "description": ".",
       "required": false,
       "value": ""
     },
@@ -39,7 +39,7 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "autoRead": {
@@ -49,7 +49,7 @@
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
-      "required": false,
+      "required": true,
       "value": "false"
     },
      "REMOVEBG_KEY": {
